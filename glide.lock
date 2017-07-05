@@ -1,0 +1,12 @@
+hash: 504040619970d57dbd8c691b815b4406a8b77a1ec17930d8dc8e9d127420008e
+updated: 2017-07-05T16:02:44.314593592+04:00
+imports:
+- name: github.com/Sirupsen/logrus
+  version: 202f25545ea4cf9b191ff7f846df5d87c9382c2b
+- name: github.com/warik/gami
+  version: 270e32bae658cb96276e401f40ca5be2bca8b367
+- name: golang.org/x/sys
+  version: 94b76065f2d2081d0fef24a6e67c571f51a6408a
+  subpackages:
+  - unix
+testImports: []

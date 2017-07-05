@@ -1,0 +1,5 @@
+package: github.com/geri4/clicktocall
+import:
+- package: github.com/Sirupsen/logrus
+  version: ~1.0.0
+- package: github.com/warik/gami
